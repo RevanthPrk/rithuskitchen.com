@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- Desktop Navigation -->
+    <!-- Desktop Navigation test webex-->  
     <nav class="hidden md:flex items-center justify-between px-8 py-6 bg-background/80 backdrop-blur-sm border-b border-border">
       <div class="flex items-center space-x-2">
         <h1 class="text-2xl font-medium text-primary">Pasticherria</h1>
